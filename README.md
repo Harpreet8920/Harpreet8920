@@ -7,7 +7,8 @@
 - 🤝 I’m currently pursuing a **Diploma in Computer Engineering**
 - 📫 How to reach me: **h26199810@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> &#127760;
+ Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/harpreet-68b21b263/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpreet-linkedin" height="30" width="40" />
