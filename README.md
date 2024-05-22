@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
 <h3 align="center">A passionate Data Scientist and Data Analyst</h3>
 
-
 - 🔭 I’m interested in **Data Science and Data Analysis**
 - 🌱 I’m currently learning **Statistics and EDA (Libraries and FE)**
 - 🤝 I’m currently pursuing a **Diploma in Computer Engineering**
 - 📫 How to reach me: **h26199810@gmail.com**
 
-<h3 align="left"> &#127760;
- Connect with me:</h3>
+<h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/harpreet-68b21b263/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpreet-linkedin" height="30" width="40" />
@@ -21,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left" style="font-size: 24px;">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -49,6 +47,7 @@
 ![SciPy](https://img.shields.io/badge/scipy-%230c55a5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 # 🛠️ Tools:
 
@@ -58,7 +57,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harpreet8920&show_icons=true&locale=en&layout=compact" alt="harpreet8920" /></p>
 
