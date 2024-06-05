@@ -9,6 +9,9 @@
 <h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
 <p align="left">
   <a href="mailto:h26199810@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="google" height="30" width="40" />
+  </a>
+  <a href="mailto:h26199810@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="harpreet-email" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/harpreet-68b21b263/" target="blank">
