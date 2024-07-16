@@ -40,7 +40,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
-<h3> align="left" style="font-size: 24px;">💻 Tech Stack:</h3>
+
+<h3 align="left" style="font-size: 24px;">💻 Tech Stack:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -83,14 +84,4 @@
 
 <h3 align="left">Top Contributed Repo</h3>
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=harpreet8920&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top-contributed-repo" />
-</p>
-
-<h3 align="left">GitHub Trophies</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=harpreet8920&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="github-trophies" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=harpreet8920&icon=0&color=0" alt="profile-views" />
-</p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=harpreet8920&limit=5&theme=dark&combine_all_year
