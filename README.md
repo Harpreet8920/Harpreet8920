@@ -17,7 +17,7 @@
   <a href="https://www.kaggle.com/h26199810" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.instagram.com/harpreet_singhh_30/" target="blank">
+  <a> href="https://www.instagram.com/harpreet_singhh_30/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/u/h26199810/" target="blank">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-h3 align="left" style="font-size: 24px;">💻 Tech Stack:</h3>
+<h3> align="left" style="font-size: 24px;">💻 Tech Stack:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
