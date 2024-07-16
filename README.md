@@ -6,7 +6,7 @@
 - 🤝 I’m currently pursuing a **Diploma in Computer Engineering**
 - 📫 How to reach me: **h26199810@gmail.com**
 
-<h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
+h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
 <p align="left">
   <a href="mailto:h26199810@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
