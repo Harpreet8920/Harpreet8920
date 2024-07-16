@@ -1,4 +1,4 @@
-[![Typing SVG](https://real
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Harpreet.+;I+am+a+Data Analyst.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="350px"  src="ocatcatluffy.svg" />
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
 <h3 align="center">A passionate Data Scientist and Data Analyst</h3>
 
