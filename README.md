@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h3 align="left" style="font-size: 24px;">💻 Tech Stack:</h3>
+h3 align="left" style="font-size: 24px;">💻 Tech Stack:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
