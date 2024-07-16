@@ -6,7 +6,7 @@
 - 🤝 I’m currently pursuing a **Diploma in Computer Engineering**
 - 📫 How to reach me: **h26199810@gmail.com**
 
-h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
+<h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
 <p align="left">
   <a href="mailto:h26199810@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
@@ -20,6 +20,9 @@ h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
   <a href="https://www.instagram.com/harpreet_singhh_30/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harpreet-instagram" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/h26199810/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="harpreet-leetcode" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left" style="font-size: 24px;">Languages:</h3>
@@ -32,6 +35,9 @@ h3 align="left" style="font-size: 24px;">&#127760; Connect with me:</h3>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
 
