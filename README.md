@@ -1,4 +1,4 @@
-
+![Welcome GIF](https://c.tenor.com/PXoxSpLX_hMAAAAM/animated-welcome.gif)
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
 <h3 align="center">A passionate Data Scientist and Data Analyst</h3>
 
