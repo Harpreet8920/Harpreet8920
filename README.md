@@ -102,6 +102,11 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harpreet8920&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harpreet8920&theme=2077" height="180em" />
 </div>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
+## Languages
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreet8920&layout=compact&langs_count=10&hide_border=true&theme=radical" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
