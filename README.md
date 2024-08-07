@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist and Data Analyst</h3>
 
 - 🔭 I’m interested in **Data Science and Data Analysis**
-- 🌱 I’m currently learning **Statistics and EDA (Libraries and FE)**
+- 🌱 I’m currently learning **Machine learning and EDA (Libraries and FE)**
 - 🤝 I’m currently pursuing a **Diploma in Computer Engineering**
 - 📫 How to reach me: **h26199810@gmail.com**
 
