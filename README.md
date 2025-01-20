@@ -89,6 +89,7 @@
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="quote" />
 </p>
+![Snake animation](https://github.com/Harpreet8920/Harpreet8920/blob/output/github-contribution-grid-snake.svg)
 
 
 
