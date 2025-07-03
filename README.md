@@ -1,11 +1,12 @@
 ![Welcome GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
-<h3 align="center">A passionate Data Scientist and Data Analyst</h3>
+<h3 align="center">An aspiring AI/ML Engineer and GenAI Enthusiast </h3>
 
-- 🔭 I’m interested in **Data Science and Data Analysis**
-- 🌱 I’m currently learning **Machine learning and EDA (Libraries and FE)**
-- 🤝 I’m currently pursuing a **Diploma in Computer Engineering**
+- 🔭 I’m passionate about **Artificial Intelligence, Machine Learning, and Intelligent Systems**
+- 🌱 I’m currently deepening my skills in **Machine Learning, LLMs, and GenAI**
+- 🎓 I’ve completed my **Diploma in Computer Engineering from DSEU Dwarka**
 - 📫 How to reach me: **h26199810@gmail.com**
+
 
 <h3 align="left" style="font-size: 24px;">💼 Connect with me:</h3>
 <p align="left">
